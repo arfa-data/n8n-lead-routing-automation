@@ -3,6 +3,7 @@
 An end-to-end automated lead processing pipeline built in **n8n** that integrates form intake, database logging, conditional filtering, multi-path email notifications, and stream merging.
 
 ![n8n Workflow Canvas](workflow-canvas.png.png)
+![Workflow Execution Proof](execution%20%28workflow%29.png)
 
 ---
 
